@@ -22,7 +22,7 @@ Perfect for **AI beginners** and enthusiasts alike, these two notebooks provides
 ![Example 1](demo1.png)
 
 ## 🖼️ Auto Image Segmentaion with SAM
-![Example 2](151d160d-3420-4548-b76b-c23b786154d0.png)
+![Example 2](151d160d-3420-4548-b76b-c23b786154d0.jpeg)
 
 ## 🛠 Tech Stack
 
