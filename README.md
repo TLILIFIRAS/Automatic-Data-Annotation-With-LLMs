@@ -1,23 +1,28 @@
 
-# 🎯 Auto-Labeling Images with Microsoft Florence 2
+# 🎯 Auto-Labeling Images with Microsoft Florence 2 and Facebook SAM
 
-Unlock the potential of **Florence 2** with this step-by-step guide to **automatically label images** and simplify your AI workflows!
+Unlock the potential of **Florence 2 & SAM ** with this step-by-step guide to **automatically label images ** and simplify your AI workflows!
 
-This beginner-friendly project showcases how to leverage Microsoft’s **Florence 2 multimodal model** for:
+This beginner-friendly project showcases how to leverage Microsoft’s **Florence 2 multimodal model** and Facebook's **SAM multimodal model**for:
 - 🏷️ Automatic data labeling
 - 🧠 Object detection
 - 🖼️ Image classification
 - 🧩 Segmentation
 
-Perfect for **AI beginners** and enthusiasts alike, this notebook provides a clear, well-structured approach to mastering modern AI tools like **Hugging Face** and **Google Colab**.
+Perfect for **AI beginners** and enthusiasts alike, these two notebooks provides a clear, well-structured approach to mastering modern AI tools like **Hugging Face** and **Google Colab**.
 
 ## 🚀 What You’ll Learn
 
-- ✅ Set up and use Microsoft Florence 2 for various vision tasks  
+- ✅ Set up and use  Florence 2 and SAM for various vision tasks  
 - 🗂️ Process image data and handle prompts  
 - 🔍 Auto-generate annotations for models like **YOLOv9**  
 - 🔧 Use platforms like **Roboflow** to enhance your pipeline  
-- 🧠 Understand the power of multimodal AI  
+- 🧠 Understand the power of multimodal AI
+## 🖼️ Auto Object Detection with Florence-2
+![Example 1](demo1.png)
+
+## 🖼️ Auto Image Segmentaion with SAM
+![Example 2](151d160d-3420-4548-b76b-c23b786154d0.png)
 
 ## 🛠 Tech Stack
 
@@ -31,18 +36,20 @@ Perfect for **AI beginners** and enthusiasts alike, this notebook provides a cle
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/florence2-auto-labeling.git  
-cd florence2-auto-labeling
+git clone https://github.com/TLILIFIRAS/Automatic-Data-Annotation-With-LLMs.git 
+cd Automatic-Data-Annotation-With-LLMs
 
 # Set up the environment
 pip install -r requirements.txt
 
-# Launch the notebook
-jupyter notebook
+# Launch the notebook of Data_Labeling with Florence-2
+jupyter notebook Automatic_Data_Labeling_with_Florence_2.ipynb
+```
+# Launch the notebook of Data_Labeling for Image Segmentation 
+jupyter notebook Automatic_Data_Annotation_for_Image_Segmentation.ipynb
 ```
 
 Or run it on Google Colab:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/florence2-auto-labeling/blob/main/notebook.ipynb)
 
 ## 📸 Example Use Cases
 
