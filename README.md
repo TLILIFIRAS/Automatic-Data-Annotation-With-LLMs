@@ -1,7 +1,7 @@
 
 # 🎯 Auto-Labeling Images with Microsoft Florence 2 and Facebook SAM
 
-Unlock the potential of **Florence 2 & SAM ** with this step-by-step guide to **automatically label images ** and simplify your AI workflows!
+Unlock the potential of **Florence 2 & SAM** with this step-by-step guide to **automatically label images** and simplify your AI workflows!
 
 This beginner-friendly project showcases how to leverage Microsoft’s **Florence 2 multimodal model** and Facebook's **SAM multimodal model** for:
 - 🏷️ Automatic data labeling
