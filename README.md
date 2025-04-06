@@ -3,7 +3,7 @@
 
 Unlock the potential of **Florence 2 & SAM ** with this step-by-step guide to **automatically label images ** and simplify your AI workflows!
 
-This beginner-friendly project showcases how to leverage Microsoft’s **Florence 2 multimodal model** and Facebook's **SAM multimodal model**for:
+This beginner-friendly project showcases how to leverage Microsoft’s **Florence 2 multimodal model** and Facebook's **SAM multimodal model** for:
 - 🏷️ Automatic data labeling
 - 🧠 Object detection
 - 🖼️ Image classification
@@ -21,7 +21,7 @@ Perfect for **AI beginners** and enthusiasts alike, these two notebooks provides
 ## 🖼️ Auto Object Detection with Florence-2
 ![Example 1](demo1.png)
 
-## 🖼️ Auto Image Segmentaion with SAM
+## 🖼️ Auto Image Segmentation with SAM
 ![Example 2](151d160d-3420-4548-b76b-c23b786154d0.jpeg)
 
 ## 🛠 Tech Stack
