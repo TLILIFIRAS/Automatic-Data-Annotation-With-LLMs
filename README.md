@@ -1,9 +1,9 @@
 
-# 🎯 Auto-Labeling Images with Microsoft Florence 2 and Facebook SAM
+# 🎯 Auto-Labeling Images with Microsoft Florence 2 and Meta AI SAM
 
 Unlock the potential of **Florence 2 & SAM** with this step-by-step guide to **automatically label images** and simplify your AI workflows!
 
-This beginner-friendly project showcases how to leverage Microsoft’s **Florence 2 multimodal model** and Facebook's **SAM multimodal model** for:
+This beginner-friendly project showcases how to leverage Microsoft’s **Florence 2 multimodal model** and Meta AI's **SAM multimodal model** for:
 - 🏷️ Automatic data labeling
 - 🧠 Object detection
 - 🖼️ Image classification
@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 # Launch the notebook of Data_Labeling with Florence-2
 jupyter notebook Automatic_Data_Labeling_with_Florence_2.ipynb
-```
+
 # Launch the notebook of Data_Labeling for Image Segmentation 
 jupyter notebook Automatic_Data_Annotation_for_Image_Segmentation.ipynb
 ```
