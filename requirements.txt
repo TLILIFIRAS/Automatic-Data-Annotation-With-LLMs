@@ -1,0 +1,27 @@
+
+# Core dependencies
+torch>=2.0.0
+transformers>=4.36.0
+diffusers>=0.26.0
+accelerate>=0.23.0
+datasets
+pillow
+tqdm
+numpy
+matplotlib
+
+# For handling image annotations and visualization
+opencv-python
+pycocotools
+scikit-image
+albumentations
+
+# Optional tools for Roboflow interaction or HTTP requests
+requests
+roboflow
+
+# Jupyter Notebook (for local usage)
+notebook
+
+# Hugging Face login (optional, for private models)
+huggingface_hub
